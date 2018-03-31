@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+F:\Documents\Classes\CS4222 - Databases\Project\database Java\.metadata\.plugins\org.eclipse.jdt.core
+3444301062.index
